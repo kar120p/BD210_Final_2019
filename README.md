@@ -48,5 +48,8 @@ ___
 ___
 
 #### 2018 LBMP Averages ($/MWh)
+![test image size](/img/pjm_2018_lbmp.png)
 
-<img src="https://github.com/pkampf/BD210_Final_2019/blob/master/img/pjm_2018_lbmp.png" width="800" height="1100">
+
+
+//<img src="https://github.com/pkampf/BD210_Final_2019/blob/master/img/pjm_2018_lbmp.png" width="800" height="1100">
