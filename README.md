@@ -12,7 +12,7 @@ The price is determined in a day-ahead auction by PJM, the market operator, and 
 
 
 #### US Energy Markets
-![test image size](/img/powermarkets.png)
+![test image size](/img/powermarkets.jpg)
 
 **Links**
 
