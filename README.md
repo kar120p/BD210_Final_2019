@@ -8,7 +8,7 @@
 -------
 I began the project downloading hourly locational based marginal price (LBMP) data from the PJM website, which is the price seen at power plants, and other interfaces with the grid across their service territory in the Mid/South-Atlantic and Midwest.
 
-The price is determined in a day-ahead auction by PJM, the market operator, and their models designed to reflect in the price the weights of weather, constraints on transmission lines, other environmental variables, and all bids into the auction from regional generators/loads for their cost to produce a MW at that hour. In 2018, for reduced dataset I chose there were 4688 unique pnodes (pricing nodes) with complete annual data, or 41,066,880 entries and a ~3GB csv file.
+The price is determined in a day-ahead auction by PJM, the market operator. The highest price bid accepted into the auction for that hour sets price paid to all generators at that hour (generally gas generators setting price), when auction clears all generation has been procured as cheaply as possible by PJM to satisfy load. The transmission constraints and other environmental factors are reflected as add-ons to price resulting in what we see in this data as LBMP. Certain regions have higher congestion on lines due to population, industry etc.. and can exhibit higher additional costs to deliver energy there. We can see in the data, high prices cluster around population centers. In 2018, for reduced dataset I chose there were 4688 unique pnodes (pricing nodes) with complete annual data, or 41,066,880 entries and a ~3GB csv file.
 
 
 #### US Energy Markets
