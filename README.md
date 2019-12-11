@@ -15,6 +15,8 @@ The price is determined in a day-ahead auction by PJM, the market operator, and 
 
 [PJM's LMP Model Info](https://www.pjm.com/markets-and-operations/energy/lmp-model-info.aspx) | [PJM Tools Data Access](https://www.pjm.com/markets-and-operations/etools.aspx)
 
+
+![test image size](/img/powermarkets.jpg){:height="50%" width="50%"}
 ____
 
 
