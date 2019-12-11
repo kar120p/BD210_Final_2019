@@ -18,7 +18,7 @@ The price is determined in a day-ahead auction by PJM, the market operator. The 
 
 [PJM's LMP Model Info](https://www.pjm.com/markets-and-operations/energy/lmp-model-info.aspx) | [PJM Tools Data Access](https://www.pjm.com/markets-and-operations/etools.aspx)
 
-
+[Scala Notebook](https://github.com/pkampf/BD210_Final_2019/blob/master/notebook/BD210%20Final%2020191211.scala)
 ____
 
 
