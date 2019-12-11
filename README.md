@@ -15,8 +15,6 @@ The price is determined in a day-ahead auction by PJM, the market operator, and 
 
 [PJM's LMP Model Info](https://www.pjm.com/markets-and-operations/energy/lmp-model-info.aspx) | [PJM Tools Data Access](https://www.pjm.com/markets-and-operations/etools.aspx)
 
-
-![test image size](/img/powermarkets.jpg)
 ____
 
 
@@ -45,3 +43,10 @@ ___
 * Determine highest value nodes and regions for solar
 * Present findings in Map
 * Complete analysis for multiple years (incomplete)
+
+
+___
+
+#### 2018 LBMP Averages ($/MWh)
+
+<img src="https://github.com/pkampf/BD210_Final_2019/blob/master/img/pjm_2018_lbmp.png" width="200" height="200">
