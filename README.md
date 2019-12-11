@@ -11,6 +11,9 @@ I began the project downloading hourly locational based marginal price (LBMP) da
 The price is determined in a day-ahead auction by PJM, the market operator, and their models designed to reflect in the price the weights of weather, constraints on transmission lines, other environmental variables, and all bids into the auction from regional generators/loads for their cost to produce a MW at that hour. In 2018, for reduced dataset I chose there were 4688 unique pnodes (pricing nodes) with complete annual data, or 41,066,880 entries and a ~3GB csv file.
 
 
+#### US Energy Markets
+![test image size](/img/powermarkets.png)
+
 **Links**
 
 [PJM's LMP Model Info](https://www.pjm.com/markets-and-operations/energy/lmp-model-info.aspx) | [PJM Tools Data Access](https://www.pjm.com/markets-and-operations/etools.aspx)
@@ -50,6 +53,5 @@ ___
 #### 2018 LBMP Averages ($/MWh)
 ![test image size](/img/pjm_2018_lbmp.png)
 
-
-
-//<img src="https://github.com/pkampf/BD210_Final_2019/blob/master/img/pjm_2018_lbmp.png" width="800" height="1100">
+#### 2018 GHI Adjusted PV Revenue ($/MWh)
+![test image size](/img/pjm_2018_revenue.png)
