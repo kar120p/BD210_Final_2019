@@ -19,14 +19,12 @@ The price is determined in a day-ahead auction by PJM, the market operator. The 
 [PJM's LMP Model Info](https://www.pjm.com/markets-and-operations/energy/lmp-model-info.aspx) | [PJM Tools Data Access](https://www.pjm.com/markets-and-operations/etools.aspx)
 
 [Scala Notebook](https://github.com/pkampf/BD210_Final_2019/blob/master/notebook/BD210%20Final%2020191211.scala)
-____
 
 
-#### Further data considered
+**Further data considered**
 
-___Joining by location and date to determine where and when solar facilities might best capture revenue from unique market areas and their price swings___ 
+_Joining by location and date to determine where and when solar facilities might best capture revenue from unique market areas and their price swings_
 
------
 
 **Solar irradiance data from NREL**
 
